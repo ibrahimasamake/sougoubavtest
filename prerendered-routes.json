@@ -1,0 +1,19 @@
+{
+  "routes": [
+    "/boutique/index",
+    "/emploie/index",
+    "/login",
+    "/profil",
+    "/profils/product/details",
+    "/profils/update-user/profile",
+    "/singIn",
+    "/sougouba/alimentation",
+    "/sougouba/electronics",
+    "/sougouba/home",
+    "/sougouba/ikasougou/store",
+    "/sougouba/quinquelerie",
+    "/sougouba/user/createNowProduct",
+    "/sougouba/user/createNowProduct/sucess",
+    "/sougouba/user/panier"
+  ]
+}
