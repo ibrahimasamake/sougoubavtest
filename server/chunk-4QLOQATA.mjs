@@ -1,0 +1,2 @@
+import './polyfills.server.mjs';
+import{Z as s}from"./chunk-IFZQUKUB.mjs";import"./chunk-COT65Y5O.mjs";var a=(()=>{let t=class t{transform(r){if(r==null)return"";let n=r.toString().split(".");return n[0]=n[0].replace(/\B(?=(\d{3})+(?!\d))/g," "),n.join(".")}};t.\u0275fac=function(i){return new(i||t)},t.\u0275pipe=s({name:"currentCfa",type:t,pure:!0,standalone:!0});let e=t;return e})();export{a as CurrentCfaPipe};
